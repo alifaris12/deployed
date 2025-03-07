@@ -1,1 +1,1 @@
-# deployed
+# tugas cloud coputing
